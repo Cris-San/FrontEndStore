@@ -39,7 +39,9 @@ Añadir funcionalidades con JavaScript 🧠.
 Integración de una base de datos para gestionar productos 📦.
 
 🙌 Agradecimientos
-Gracias por visitar este proyecto. Si tienes sugerencias, no dudes en abrir un issue o contactarme directamente. ¡Tu feedback es valioso! 🌟
+
+Gracias por visitar este proyecto. Si tienes sugerencias, no dudes en abrir un issue o contactarme directamente. 
+¡Tu feedback es valioso! 🌟
 
 🌐 Conéctate conmigo
 ¿Interesado en colaborar? Envíame un mensaje a cris629.cso@gmail.com o sígueme en GitHub para futuros proyectos 🚀.
