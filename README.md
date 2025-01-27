@@ -46,5 +46,14 @@ Gracias por visitar este proyecto. Si tienes sugerencias, no dudes en abrir un i
 ## 🌐 Conéctate conmigo
 ¿Interesado en colaborar? Envíame un mensaje a cris629.cso@gmail.com o sígueme en GitHub para futuros proyectos 🚀.
 
+<a href="https://www.linkedin.com/in/yubercristiansanchezospina/" target="_blank" style="margin-left: 40px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="margin-left: 40px;">
+</a>
+<a href="https://github.com/Cris-San" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30" style="margin-left: 40px;">
+</a>
+
+
+
 
 
