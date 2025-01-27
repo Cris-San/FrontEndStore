@@ -33,6 +33,7 @@ Herramientas de depuración: Inspección y mejora del diseño y la funcionalidad
 
 
 🚀 Próximos pasos
+
 Añadir funcionalidades con JavaScript 🧠.
 
 Integración de una base de datos para gestionar productos 📦.
